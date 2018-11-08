@@ -1,0 +1,107 @@
+{
+  "oloCliente":{
+    "idClient":0,
+    "phoneNum":9988776655,
+    "phoneExt":"123",
+    "phoneDesc":"Personal",
+    "firstName":"Julion",
+    "lastName":"COCHRAN",
+    "mothersName":"COCHRAN",
+    "email":"a",
+    "emailOptIn":1,
+    "otherNotes":"RAPPI: 12917902\/\/"
+  },
+  "deliveryAddress":{
+    "orderNotes":"",
+    "addrAlias":"",
+    "streetName":"Juan Valle",
+    "streetNum":"11",
+    "unitNumber":"",
+    "zipCode":"66220",
+    "colony":"Del Valle",
+    "city":"San Pedro Garza Garc\u00eda",
+    "municipality":"",
+    "State":"",
+    "Country":"México",
+    "latitude":"25.65764",
+    "longitude":"-100.3687"
+  },
+  "extraData":{
+    "remoteAddress":"200.94.19.189",
+    "HTTPUserAgent":"Aplicación Móvil",
+    "storeBrand":"chilis",
+    "storeNumber":"50001",
+    "IPv4":"10.5.250.100",
+    "orderSource":"Rapi",
+    "idValidUser":570,
+    "userLogin":"rapi001"
+  },
+  "discount":{
+    "couponDescription":"Empleado Alsea",
+    "couponAmount":"0.00",
+    "dinerNumber":1,
+    "couponPercentage":"30"
+  },
+  "orderData":{
+    "items":[
+      {
+        "item":{
+          "iditem":93,
+          "price":70.62,
+          "name":"Venti/Caliente/Mocha Blanco Caliente",
+          "longName":"Venti/Caliente/Mocha Blanco Caliente",
+          "hasModifier":1,
+          "menuItemId":"402",
+          "quantity":1,
+          "subItems":[
+            {
+              "item":{
+                "menuItemId":7,
+                "modGroupId":8,
+                "price":10.70,
+                "longName":"Leche de Coco",
+                "hasModifier":0,
+                "quantity":1,
+                "idItemTreeSRC":[
+                  "10061"
+                ],
+                "subItems":[
+
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "item":{
+          "iditem":63,
+          "price":69.55,
+          "name":"Grande/Frappe/Chip Frappuccino",
+          "longName":"Grande/Frappe/Chip Frappuccino",
+          "hasModifier":1,
+          "menuItemId":63,
+          "quantity":1,
+          "subItems":[
+            {
+              "item":{
+                "price":9.63,
+                "menuItemId":4,
+                "modGroupId":5,
+                "longName":"Leche Deslactosada",
+                "hasModifier":0,
+                "quantity":1,
+                "idItemTreeSRC":[
+                  "10020"
+                ],
+                "subItems":[
+
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
